@@ -20,6 +20,12 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib)
+
+
 ---
 
 ## 📈 GitHub Stats
