@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there, I'm Priyanshu Verma!
 
-<!--
-**thepriyanshuverma/thepriyanshuverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | AI & Machine Learning  
+🏫 Dr. A.P.J Abdul Kalam Institute of Technology, Tanakpur  
+💻 Passionate about Machine Learning, Python & Full Stack Web Development
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python, C
+- HTML, CSS, JavaScript
+- Machine Learning, scikit-learn
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 My Projects
+- [🚢 Titanic Survival Prediction](https://github.com/thepriyanshuverma/titanic-survival-prediction)
+- More coming soon...
+
+## 📫 Connect with Me
+- [LinkedIn](	https://www.linkedin.com/in/priyanshu-verma-674a8a313/)
+- [Portfolio Website](	https://thepriyanshuverma.github.io)
+
+---
+
+Thanks for visiting my GitHub! 😊
